@@ -7,7 +7,7 @@ This project focuses on analyzing data using various Python commands and functio
 
 
 <h2>Commands and Functions</h2>
-1.Importing Libraries<br />
+<h3>1.Importing Libraries<br /></h3>
 
 -> import pandas as pd - To import the Pandas library.<br />
 -> import seaborn as sns - To import the Seaborn library.<br />
