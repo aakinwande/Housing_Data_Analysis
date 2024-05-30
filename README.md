@@ -14,7 +14,7 @@ This project focuses on analyzing data using various Python commands and functio
 -> import matplotlib.pyplot as plt - To import the Matplotlib library.
 
 
-<h3>2. Data Handling with Pandas<br /</h3>
+<h3>2. Data Handling with Pandas<br /</h3><br />
 
 -> pd.read_csv('file.csv') - To import the CSV file into a Pandas DataFrame.<br />
 -> df.count() - Counts the number of non-null values in each column.<br />
